@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSO_LO_CSHARP_THEMA_2_OOP", "TSO_LO_CSHARP_THEMA_2_OOP\TSO_LO_CSHARP_THEMA_2_OOP.csproj", "{D860927F-0340-4C1B-AEBA-42F8D16FC73A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSO_LO_CSHARP_THEMA_3_OOP", "TSO_LO_CSHARP_THEMA_2_OOP\TSO_LO_CSHARP_THEMA_3_OOP.csproj", "{D860927F-0340-4C1B-AEBA-42F8D16FC73A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

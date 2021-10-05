@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TSO_LO_CSHARP_THEMA_2_OOP
+namespace TSO_LO_CSHARP_THEMA_3_OOP
 {
     class Program
     {
